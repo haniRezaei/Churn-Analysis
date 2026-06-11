@@ -265,11 +265,7 @@ Based on the findings, the following retention strategies are recommended:
 
 ### 1. Promote Long-Term Contracts
 
-Offer discounts and incentives for annual contracts.
-
-Expected impact:
-
-* Reduce churn from 52% to approximately 11%.
+Offer discounts and incentives for annual contracts that the expected impact: Reduce churn from 52% to approximately 11%.
 
 ### 2. Free Online Security Trial
 
